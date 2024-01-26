@@ -1,0 +1,21 @@
+
+ ******* Resume de la commande n° 1 ******** 
+salade
+poulet
+riz
+eau plate
+tarte maison
+
+ ******* Resume de la commande n° 2 ******** 
+soupe
+boeuf
+pates
+eau gazeuze
+mousse au chocolat
+
+ ******* Resume de la commande n° 3 ******** 
+quiche
+poisson
+frites
+soda
+tiramisu
